@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: jpbha
+Build-Jdk: 12.0.1
+Implementation-Title: A sample Java Spring web service created with AWS 
+ CodeStar.
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.aws.codestar.projecttemplates
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/HelloWorld
+Created-By: Maven Integration for Eclipse
+
